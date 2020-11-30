@@ -8,7 +8,7 @@ import java.util.Random;
 	 * creating an object from StockRoom based off the user input
 	 * the user is then asked to input whether they want to see related animals animals are related by enclosure
 	 * program repeats 5 times or until an incorrect animal is input
-	 * @author StevenDennis AlexandraSuarez KylerYates AbdouToure TonyFarelli
+	 * @author StevenDennis AlexandraSuarez KylerYates AbdouToure AnthonyFanelli
 	 *
 	 */
 	
@@ -765,4 +765,5 @@ import java.util.Random;
 			}
 	}
 
+	
 	
