@@ -1,8 +1,8 @@
-import java.util.ArrayList;
+
 
 /**
  * StockRoom handles most interaction in the program including 
- * food amount and type and searching related animals
+ * food amount and type, and searching related animals
  * Has constructor with inheritance from animal used in MAIN for populating the zoo
  * child of Animals class
  * @author StevenDennis AlexandraSuarez KylerYates AbdouToure 
@@ -12,7 +12,6 @@ public class StockRoom extends Animals
 {
     private int foodCount;
     private String foodType;
-
    /**
   * constructor with only inheritance
   * @param animal
@@ -63,21 +62,4 @@ public class StockRoom extends Animals
         this.foodCount = foodCount;
         this.foodType = foodType;
     }
-    /**
-     * adFood method provides a way to add food to foodCount
-     * @param foodCount
-     */
-    public void addFood(int foodCount) {
-        this.foodCount += foodCount;
-    }
-    /**
-     * method to sort animals by enclosure
-     * @return group animals grouped by enclosure
-     */
-	public ArrayList<String> animalGroup(){
-		ArrayList<String> group = new ArrayList<String>();
-		//TODO logic for grouping animals by enclosure and adding them to the group array
-		return (group);
-		
-	}
 }
