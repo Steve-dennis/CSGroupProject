@@ -2,7 +2,7 @@
  * Animals stores animals animal count and enclosures
  * passing all to StockRoom class
  * parent of StockRoom
- * @author StevenDennis AlexandraSuarez KylerYates AbdouToure 
+ * @author StevenDennis AlexandraSuarez KylerYates AbdouToure AnthonyFanelli
  *
  */
 public class Animals
