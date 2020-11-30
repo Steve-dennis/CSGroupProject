@@ -5,7 +5,7 @@
  * food amount and type, and searching related animals
  * Has constructor with inheritance from animal used in MAIN for populating the zoo
  * child of Animals class
- * @author StevenDennis AlexandraSuarez KylerYates AbdouToure 
+ * @author StevenDennis AlexandraSuarez KylerYates AbdouToure AnthonyFanelli
  *
  */
 public class StockRoom extends Animals
